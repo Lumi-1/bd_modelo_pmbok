@@ -142,3 +142,4 @@ Cada riesgo puede tener una estrategia de respuesta asociada.
 Un proyecto puede tener varias comunicaciones, y cada comunicación es enviada por un responsable.
 
 Cada proyecto tiene un único patrocinador.  
+![bd_modelo_pmbok_1](https://github.com/user-attachments/assets/6810b5e7-ab49-4f96-8c3c-af281785427c)
