@@ -142,6 +142,7 @@ Cada riesgo puede tener una estrategia de respuesta asociada.
 Un proyecto puede tener varias comunicaciones, y cada comunicación es enviada por un responsable.
 
 Cada proyecto tiene un único patrocinador.
+
 MODELO CONCEPTUAL
 ![Diagrama entidad_relación (1)](https://github.com/user-attachments/assets/de35d439-a1b9-4793-a56a-df5eb442b258)
 
