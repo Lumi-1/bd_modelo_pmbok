@@ -147,4 +147,9 @@ MODELO CONCEPTUAL
 ![Diagrama entidad_relación (1)](https://github.com/user-attachments/assets/de35d439-a1b9-4793-a56a-df5eb442b258)
 
 MODELO LOGICO
-![bd_modelo_pmbok_1](https://github.com/user-attachments/assets/6810b5e7-ab49-4f96-8c3c-af281785427c)
+![bd_modelo_pmbok_1](https://github.com/user-attachments/assets/ca5117f7-feab-4b15-b8ae-6369a3830e17)
+
+
+MODELO FÍSICO
+![image](https://github.com/user-attachments/assets/e44bcfc1-c26e-407a-b563-8c86ddc0b96d)
+
